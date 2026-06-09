@@ -1,8 +1,8 @@
 # RB-TnSeq analysis notes
 
-This repository contains legacy analysis notes and scripts from an RB-TnSeq project using a methylotroph *Methylotenera* sp. JLW8 mutant pool in planktonic co-culture experiments with methanotroph *Methylomonas* sp. LW13.
+This repository contains scripts and documentation from a graduate school RB-TnSeq (Random Barcode Transposon Sequencing) project using a mutant pool of the methylotroph *Methylotenera* sp. JLW8 in planktonic co-culture experiments with the methanotroph *Methylomonas* sp. LW13.
 
-This repository is maintained as an archived analysis workflow from a graduate school RB-TnSeq project. Raw sequencing data and intermediate count tables are not included. Scripts are preserved primarily for reference and may require modification before reuse.
+The repository is maintained as an archive of the analysis workflow used for BarSeq count processing, exploratory data analysis, and gene fitness estimation. Raw sequencing data, count tables, and metadata are not included. Scripts are preserved primarily for reference and may require modification before reuse.
 
 ## Repository contents
 
