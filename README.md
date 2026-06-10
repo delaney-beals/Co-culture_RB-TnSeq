@@ -2,7 +2,7 @@
 
 This repository contains scripts and documentation from a graduate school RB-TnSeq (Random Barcode Transposon Sequencing) project using a mutant pool of the methylotroph *Methylotenera* sp. JLW8 in planktonic co-culture experiments with the methanotroph *Methylomonas* sp. LW13.
 
-The repository is maintained as an archive of the analysis workflow used for BarSeq count processing, exploratory data analysis, and gene fitness estimation. Raw sequencing data, count tables, and metadata are not included. Scripts are preserved primarily for reference and may require modification before reuse.
+The repository is maintained as an archive of the analysis workflow used for BarSeq count processing, exploratory data analysis, and gene fitness estimation. Raw sequencing data, count tables, and metadata are not included. Scripts are preserved primarily for reference and may require modification before reuse. 
 
 ## Scientific Background
 
@@ -50,3 +50,9 @@ README.md
 ## Data availability
 
 Raw sequencing reads, count tables, and metadata are not included in this repository. File paths in the scripts reflect the original local or cluster environment and may need to be modified before reuse.
+
+
+----
+## Project Status
+
+This project was conducted as part of my PhD research and is preserved as an archive of exploratory analyses and workflow development. The work was not developed into a standalone publication but is shared as an example of RB-TnSeq data analysis in R and bash. For additional information regarding the underlying biological questions, experimental methods, or original datasets, please contact [Aaron Puri](https://www.chemistry.utah.edu/faculty/aaron-w-puri/) at the University of Utah.
